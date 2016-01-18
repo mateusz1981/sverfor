@@ -1,0 +1,10 @@
+Package: sverfor
+Type: Package
+Title: The package including a set of basic forest functions used in Swedish forestry
+Version: 1.0
+Date: 2016-01-18
+Author: Mateusz Liziniewicz
+Maintainer: Mateusz Liziniewicz  <mateusz.liziniewicz@slu.se>
+Description: A package with the function that are used in Swedish forestry. It will be developed in time if I will find it.
+License: GPL-3
+LazyData: TRUE
