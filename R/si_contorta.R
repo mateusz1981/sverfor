@@ -14,4 +14,7 @@ si_cont <- function (h, a, a0=25, a2=100) {
 }
 
 
-si_cont(11, 25)
+
+
+
+
